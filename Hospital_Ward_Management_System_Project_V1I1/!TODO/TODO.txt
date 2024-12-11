@@ -1,0 +1,12 @@
+* Tasks that need to be done for next revision or can be added.
+
+- Schematic
++ Smoke sensor circuit integrated into PCB.
++ Add reliable connectors for Smoke sensor and temperature sensors.
++ change Orange to white LED for lighting
++ change nrf connector to female one
++ double check resistor value for temperature sensors.
++ Verify all resistor and cap values
+
+
+- PCB

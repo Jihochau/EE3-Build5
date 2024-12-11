@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=R_BZZR_CTRL Pin=J8-7
+Removed Pin From Net: NetName=R_BZZR_CTRL Pin=U2-13
+Added Pin To Net: NetName=RFID_RST Pin=J8-7
+Added Pin To Net: NetName=RFID_RST Pin=U2-13
+Added Net: Name=RFID_RST

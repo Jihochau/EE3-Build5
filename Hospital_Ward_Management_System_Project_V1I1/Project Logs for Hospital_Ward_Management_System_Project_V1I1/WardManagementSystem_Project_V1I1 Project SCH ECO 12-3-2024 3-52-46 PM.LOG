@@ -1,0 +1,4 @@
+Remove Pin=J7-7 From Net=LCD_D0
+Remove Pin=J7-8 From Net=LCD_D1
+Remove Pin=J7-9 From Net=LCD_D2
+Remove Pin=J7-10 From Net=LCD_D3

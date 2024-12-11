@@ -1,0 +1,17 @@
+Change Component Comment : Designator=R9 Old Comment=100R New Comment=1k
+Change Component Designator: OldDesignator=LS? NewDesignator=LS1
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R0805"; UniqueID = "\NTVNKAOS" ("\NTVNKAOS")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/5558/rc0805-5558261.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/5558/rc0805-5558261.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-131KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.1, 10=0.016, 50=0.0132, 100=0.0102, 500=0.00868, 1000=0.00714, 5000=0.0051 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "23036"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "13-RC0805FR-131KLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0805FR-131KL"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetLS?_1 New Net Name=NetLS1_1
+Change Net Name : Old Net Name=NetLS?_2 New Net Name=NetLS1_2

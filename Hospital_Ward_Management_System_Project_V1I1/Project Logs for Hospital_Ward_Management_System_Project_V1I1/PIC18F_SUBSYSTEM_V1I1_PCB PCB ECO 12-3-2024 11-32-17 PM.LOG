@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GPIO_2 Pin=U2-16
+Removed Pin From Net: NetName=GPIO_3 Pin=U2-17
+Added Pin To Net: NetName=GPIO_3 Pin=U2-16
+Added Pin To Net: NetName=GPIO_2 Pin=U2-17
+Added Member To Class: ClassName=[3] - PIC18F SUBSYSTEM SCHEMATIC Member=Component LS1 PKLCS1212E2400-R1
+Added Member To Class: ClassName=[3] - PIC18F SUBSYSTEM SCHEMATIC Member=Component R7 22R

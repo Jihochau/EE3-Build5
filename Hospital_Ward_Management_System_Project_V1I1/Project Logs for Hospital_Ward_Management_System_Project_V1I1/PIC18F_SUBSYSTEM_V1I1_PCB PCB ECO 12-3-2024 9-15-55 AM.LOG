@@ -1,0 +1,33 @@
+Added Component: Designator=Q1(SO-8-IPC_A)
+Add component (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/VISH/VISH-S-A0003079622/VISH-S-A0003079622-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/VISH/VISH-S-A0003079622/VISH-S-A0003079622-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2687467.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2687467.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/2687467.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/2687467.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.vishay.com/docs/77716/si4848ady.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.vishay.com/docs/77716/si4848ady.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SI4848ADY-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.68, 10=0.622, 50=0.622, 100=0.415, 1000=0.292, 10000=0.225 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "19572"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "78-SI4848ADY-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "78-SI4848ADY-T1-GE3"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BZ1-2
+Add Pin To Net: Unknown Pin: Pin J4-7
+Add Pin To Net: Unknown Pin: Pin J4-8
+Add Pin To Net: Unknown Pin: Pin J6-7
+Add Pin To Net: Unknown Pin: Pin J6-8
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=BZZR_CTRL Pin=Q1-4
+Added Pin To Net: NetName=NetBZ1_2 Pin=Q1-5
+Added Pin To Net: NetName=NetBZ1_2 Pin=Q1-6
+Added Pin To Net: NetName=NetBZ1_2 Pin=Q1-7
+Added Pin To Net: NetName=NetBZ1_2 Pin=Q1-8
+Added Member To Class: ClassName=[3] - PIC18F SUBSYSTEM SCHEMATIC Member=Component Q1 SI4848ADY-T1-GE3

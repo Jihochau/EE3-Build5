@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 7:51:31 AM On 12/4/2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [[3] - PIC18F SUBSYSTEM SCHEMATIC.SchDoc]
+   Generated File[Bill of Materials-[3] - PIC18F SUBSYSTEM SCHEMATIC.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:51:36 AM On 12/4/2024

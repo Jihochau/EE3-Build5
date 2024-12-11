@@ -1,0 +1,4 @@
+Change Footprint: Cannot match pads with new footprint in component :3 Footprint:HDR_2X4_2.54MM
+Change Component Designator: OldDesignator=3 NewDesignator=J4
+Add Pin To Net: Unknown Pin: Pin J4-7
+Add Pin To Net: Unknown Pin: Pin J4-8

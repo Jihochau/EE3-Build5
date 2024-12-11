@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+5V Pin=S1-5
+Removed Pin From Net: NetName=BUF_MAN_ALARM_CTRL Pin=S1-6
+Added Component: Designator=R?(R0805)
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-07560RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.1, 10=0.016, 50=0.0132, 100=0.0102, 500=0.00868, 1000=0.00781 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "65174"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-560CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-560CRCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=S1-6
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=S1-5
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=[3] - PIC18F SUBSYSTEM SCHEMATIC Member=Component R? 560R

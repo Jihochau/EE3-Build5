@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=LCD_D0 Pin=J7-7
+Added Pin To Net: NetName=LCD_D1 Pin=J7-8
+Added Pin To Net: NetName=LCD_D2 Pin=J7-9
+Added Pin To Net: NetName=LCD_D3 Pin=J7-10

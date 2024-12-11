@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=RFID_SS_SPI2 Pin=J8-1
+Added Pin To Net: NetName=RFID_SCK_SPI2 Pin=J8-2
+Added Pin To Net: NetName=RFID_MOSI_SPI2 Pin=J8-3
+Added Pin To Net: NetName=RFID_MISO_SPI2 Pin=J8-4

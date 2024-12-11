@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GAS_SENS_ALARM_CTRL Pin=J2-3
+Removed Pin From Net: NetName=GAS_SENS_ALARM_CTRL Pin=U2-22
+Change Net Name : Old Net Name=GAS_SENS_ALARM_CTRL New Net Name=TEMP_SENS
+Added Pin To Net: NetName=GAS_SENS_ALARM_CTRL Pin=J2-3
+Added Pin To Net: NetName=GAS_SENS_ALARM_CTRL Pin=U2-22
+Added Net: Name=GAS_SENS_ALARM_CTRL

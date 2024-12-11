@@ -1,0 +1,21 @@
+Added Component: Designator=LS?(PKLCS1212E2000-R1)
+Add component (AddParameter): Name = "Category"; Value = "Speakers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MURE/MURE-S-A0001469919/MURE-S-A0001469919-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MURE/MURE-S-A0001469919/MURE-S-A0001469919-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/46412/1851881-46412335.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/46412/1851881-46412335.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PKLCS1212E2400-R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=2.36, 10=1.62, 50=1.39, 100=1.13, 1000=0.76, 10000=0.738 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "10538"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "81-PKLCS1212E2400-R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-PKLCS1212E2400-R1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBZ1_2 Pin=LS?-2
+Change Net Name : Old Net Name=NetBZ1_2 New Net Name=NetLS?_2
+Added Pin To Net: NetName=NetLS?_1 Pin=LS?-1
+Added Pin To Net: NetName=NetLS?_1 Pin=R9-1
+Added Net: Name=NetLS?_1
+Added Member To Class: ClassName=[3] - PIC18F SUBSYSTEM SCHEMATIC Member=Component LS? PKLCS1212E2400-R1

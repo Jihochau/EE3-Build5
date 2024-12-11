@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ICSPDAT Pin=J6-7
+Removed Pin From Net: NetName=GND Pin=J6-8
+Change Footprint: Cannot match pads with new footprint in component :J4 Footprint:HDR_2X4_2.54MM
+Change Component Footprint: Designator=J6 Old Footprint= New Footprint=HDR_2X4_2.54MM
+Add Pin To Net: Unknown Pin: Pin J4-7
+Add Pin To Net: Unknown Pin: Pin J4-8
+Added Pin To Net: NetName=CDC_RX Pin=J6-7
+Added Pin To Net: NetName=CDC_TX Pin=J6-8

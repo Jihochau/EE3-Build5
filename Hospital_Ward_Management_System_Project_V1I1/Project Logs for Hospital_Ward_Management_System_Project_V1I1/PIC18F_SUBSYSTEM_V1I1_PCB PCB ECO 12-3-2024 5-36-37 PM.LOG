@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TEMP_SENS Pin=T1-2
+Removed Pin From Net: NetName=NetJ3_2 Pin=T1-3
+Removed Pin From Net: NetName=NetJ3_2 Pin=T2-2
+Removed Pin From Net: NetName=NetJ3_4 Pin=T2-3
+Removed Pin From Net: NetName=NetJ3_4 Pin=T3-2
+Removed Pin From Net: NetName=GND Pin=T3-3

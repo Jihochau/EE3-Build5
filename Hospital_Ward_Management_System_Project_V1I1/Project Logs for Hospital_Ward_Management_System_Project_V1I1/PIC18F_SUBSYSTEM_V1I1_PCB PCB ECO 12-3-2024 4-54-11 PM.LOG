@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MIN_PINK Pin=U2-9
+Removed Pin From Net: NetName=MIN_ORANGE Pin=U2-11
+Removed Pin From Net: NetName=MIN_YELLOW Pin=U3-3
+Added Pin To Net: NetName=MIN_ORANGE Pin=U2-9
+Added Pin To Net: NetName=MIN_PINK Pin=U2-11

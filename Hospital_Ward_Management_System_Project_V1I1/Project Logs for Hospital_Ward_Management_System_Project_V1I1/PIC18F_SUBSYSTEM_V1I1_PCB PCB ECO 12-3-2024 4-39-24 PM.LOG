@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NRF_CNS Pin=J8-5
+Removed Pin From Net: NetName=NRF_CNS Pin=U2-46
+Added Pin To Net: NetName=RFID_IRQ Pin=U2-46
+Added Net: Name=RFID_IRQ

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NRF_CNS Pin=U2-45
+Added Pin To Net: NetName=NRF_CNS Pin=J8-5
+Added Pin To Net: NetName=NRF_CNS Pin=U2-12
+Added Pin To Net: NetName=NRF_CNS Pin=U2-46
+Change Net Name : Old Net Name=NRF_SCK_SPI1 New Net Name=NRF_SCK_SPI2
+Change Net Name : Old Net Name=RFID_MISO_SPI2 New Net Name=RFID_MISO_SPI1
+Change Net Name : Old Net Name=RFID_MOSI_SPI2 New Net Name=RFID_MOSI_SPI1
+Change Net Name : Old Net Name=RFID_SCK_SPI2 New Net Name=RFID_SCK_SPI1
+Added Pin To Net: NetName=NRF_CE_SPI2 Pin=J4-5
+Added Pin To Net: NetName=NRF_CE_SPI2 Pin=U2-45
+Added Net: Name=NRF_CE_SPI2
+Added Pin To Net: NetName=NRF_MISO_SPI2 Pin=J4-1
+Added Pin To Net: NetName=NRF_MISO_SPI2 Pin=U2-3
+Added Net: Name=NRF_MISO_SPI2
+Added Pin To Net: NetName=NRF_MOSI_SPI2 Pin=J4-4
+Added Pin To Net: NetName=NRF_MOSI_SPI2 Pin=U2-4
+Added Net: Name=NRF_MOSI_SPI2
+Added Pin To Net: NetName=RFID_SS_SPI1 Pin=J8-1
+Added Pin To Net: NetName=RFID_SS_SPI1 Pin=U2-44
+Added Net: Name=RFID_SS_SPI1

@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-24042013-108968";"";
+"REFERENCE";"315-87-105-41-001101";"";
+"TraceParts.PartTitle";"Straight socket connector very low profile 2.54 mm, height 3.14 mm, solder tail, single row";"";
+"TraceParts.InstanceId";"10-24042013-108968BD3IG5S9WXPUWPCAM2M4WEU09";"";
+"SUPPLIER";"preci-dip";"";
+"DESIGN";"Straight socket connector very low profile, height 3.14 mm, solder tail, single row, 5 contacts, Tin / Flash Gold";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.7";"";

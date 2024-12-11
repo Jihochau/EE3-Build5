@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GPIO_1 Pin=U2-14
+Removed Pin From Net: NetName=LED_ROOM Pin=U2-21
+Added Pin To Net: NetName=LED_ROOM Pin=U2-14

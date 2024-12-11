@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=MOUT_BLUE Pin=J5-1
+Removed Pin From Net: NetName=MOUT_PINK Pin=J5-2
+Removed Pin From Net: NetName=MOUT_ORANGE Pin=J5-4
+Removed Pin From Net: NetName=+12V/5V Pin=J5-5
+Removed Pin From Net: NetName=MOUT_ORANGE Pin=U3-13
+Removed Pin From Net: NetName=MOUT_YELLOW Pin=U3-14
+Removed Pin From Net: NetName=MOUT_PINK Pin=U3-15
+Removed Pin From Net: NetName=MOUT_BLUE Pin=U3-16
+Change Component Designator: OldDesignator=MH1 NewDesignator=MH?
+Change Component Designator: OldDesignator=MH2 NewDesignator=MH?
+Change Component Designator: OldDesignator=MH3 NewDesignator=MH?
+Change Component Designator: OldDesignator=MH4 NewDesignator=MH?
+Change Component Designator: OldDesignator=R11 NewDesignator=R?
+Added Pin To Net: NetName=+12V/5V Pin=J5-1
+Added Pin To Net: NetName=MOUT_ORANGE Pin=J5-2
+Added Pin To Net: NetName=MOUT_PINK Pin=J5-4
+Added Pin To Net: NetName=MOUT_BLUE Pin=J5-5
+Added Pin To Net: NetName=MOUT_BLUE Pin=U3-13
+Added Pin To Net: NetName=MOUT_PINK Pin=U3-14
+Added Pin To Net: NetName=MOUT_YELLOW Pin=U3-15
+Added Pin To Net: NetName=MOUT_ORANGE Pin=U3-16

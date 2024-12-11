@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=LCD_D2 Pin=J4-1
+Removed Pin From Net: NetName=LCD_D3 Pin=J4-2
+Removed Pin From Net: NetName=LCD_D1 Pin=J4-4
+Removed Pin From Net: NetName=LCD_D1 Pin=J7-8
+Removed Pin From Net: NetName=LCD_D2 Pin=J7-9
+Removed Pin From Net: NetName=LCD_D3 Pin=J7-10
+Removed Pin From Net: NetName=LCD_D3 Pin=U2-1
+Removed Pin From Net: NetName=LCD_D1 Pin=U2-47
+Removed Pin From Net: NetName=LCD_D2 Pin=U2-48
+Added Pin To Net: NetName=NRF_IRQ Pin=J4-2
+Added Pin To Net: NetName=NRF_IRQ Pin=U2-1
+Added Net: Name=NRF_IRQ
+Added Pin To Net: NetName=NRF_MISO_SPI1 Pin=J4-1
+Added Pin To Net: NetName=NRF_MISO_SPI1 Pin=U2-48
+Added Net: Name=NRF_MISO_SPI1
+Added Pin To Net: NetName=NRF_MOSI_SPI1 Pin=J4-4
+Added Pin To Net: NetName=NRF_MOSI_SPI1 Pin=U2-47
+Added Net: Name=NRF_MOSI_SPI1

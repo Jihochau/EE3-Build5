@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-29042013-077040";"";
+"REFERENCE";"316-83-104-41-008101";"";
+"TraceParts.PartTitle";"Interconnect socket strip 2.54 mm, solder tail, single row";"";
+"TraceParts.InstanceId";"10-29042013-0770407TSV8AC9V088JWUS9ZCI9IAC2";"";
+"DESIGN";"Interconnect socket strip 2.54 mm, solder tail, single row, 4 contacts, Tin / 0,75 µm Gold, L1 = 11.9 mm";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"preci-dip";"";
+"TraceParts.PartVersion";"1.1.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"PRECIDIP:10-29042013-077040";"";

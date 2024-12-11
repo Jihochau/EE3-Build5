@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NRF_IRQ Pin=U2-1
+Removed Pin From Net: NetName=NRF_MISO_SPI1 Pin=U2-48
+Added Pin To Net: NetName=NRF_MISO_SPI1 Pin=U2-1
+Added Pin To Net: NetName=NRF_IRQ Pin=U2-48

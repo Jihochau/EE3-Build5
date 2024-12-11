@@ -1,0 +1,63 @@
+Added Component: Designator=U2(TQFP48_YX8)
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MCHP/MCHP-S-A0009762681/MCHP-S-A0009762681-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MCHP/MCHP-S-A0009762681/MCHP-S-A0009762681-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PIC18F57Q43-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=2.12, 25=1.94, 100=1.86, 250=1.78 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "226"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "3052757"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3052757"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LCD_D3 Pin=U2-1
+Added Pin To Net: NetName=RFID_SS_SPI2 Pin=U2-2
+Added Pin To Net: NetName=RFID_SCK_SPI2 Pin=U2-3
+Added Pin To Net: NetName=RFID_MOSI_SPI2 Pin=U2-4
+Added Pin To Net: NetName=RFID_MISO_SPI2 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=+5V_PIC18F_VDD Pin=U2-7
+Added Pin To Net: NetName=MIN_BLUE Pin=U2-8
+Added Pin To Net: NetName=MIN_PINK Pin=U2-9
+Added Pin To Net: NetName=MIN_YELLOW Pin=U2-10
+Added Pin To Net: NetName=MIN_ORANGE Pin=U2-11
+Added Pin To Net: NetName=RFID_IRQ Pin=U2-12
+Added Pin To Net: NetName=RFID_RST Pin=U2-13
+Added Pin To Net: NetName=GPIO_1 Pin=U2-14
+Added Pin To Net: NetName=GPIO_2 Pin=U2-15
+Added Pin To Net: NetName=R_BZZR_CTRL Pin=U2-16
+Added Pin To Net: NetName=GPIO_3 Pin=U2-17
+Added Pin To Net: NetName=ICSPCLK_22R Pin=U2-18
+Added Pin To Net: NetName=ICSPDAT Pin=U2-19
+Added Pin To Net: NetName=MCLRn Pin=U2-20
+Added Pin To Net: NetName=LED_ROOM Pin=U2-21
+Added Pin To Net: NetName=TEMP_SENS Pin=U2-22
+Added Pin To Net: NetName=MAN_ALARM_CTRL Pin=U2-23
+Added Pin To Net: NetName=GAS_SENS_ALARM_CTRL Pin=U2-24
+Added Pin To Net: NetName=V_GAS_ANALOG Pin=U2-25
+Added Pin To Net: NetName=KEYPAD_R1 Pin=U2-26
+Added Pin To Net: NetName=KEYPAD_R2 Pin=U2-27
+Added Pin To Net: NetName=KEYPAD_R3 Pin=U2-28
+Added Pin To Net: NetName=KEYPAD_R4 Pin=U2-29
+Added Pin To Net: NetName=+5V_PIC18F_VDD1 Pin=U2-30
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=KEYPAD_C1 Pin=U2-32
+Added Pin To Net: NetName=KEYPAD_C2 Pin=U2-33
+Added Pin To Net: NetName=KEYPAD_C3 Pin=U2-34
+Added Pin To Net: NetName=KEYPAD_C4 Pin=U2-35
+Added Pin To Net: NetName=CDC_RX Pin=U2-36
+Added Pin To Net: NetName=CDC_TX Pin=U2-37
+Added Pin To Net: NetName=LCD_RS Pin=U2-38
+Added Pin To Net: NetName=LCD_E Pin=U2-39
+Added Pin To Net: NetName=LCD_D0 Pin=U2-40
+Added Pin To Net: NetName=LCD_D1 Pin=U2-41
+Added Pin To Net: NetName=LCD_D2 Pin=U2-42
+Added Pin To Net: NetName=LCD_D3 Pin=U2-43
+Added Pin To Net: NetName=NRF_CE_SPI1 Pin=U2-44
+Added Pin To Net: NetName=NRF_CNS Pin=U2-45
+Added Pin To Net: NetName=R_NRF_SCK Pin=U2-46
+Added Pin To Net: NetName=LCD_D1 Pin=U2-47
+Added Pin To Net: NetName=LCD_D2 Pin=U2-48
+Added Member To Class: ClassName=[3] - PIC18F SUBSYSTEM SCHEMATIC Member=Component U2 PIC18F57Q43

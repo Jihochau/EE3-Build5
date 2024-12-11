@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RFID_SS_SPI2 Pin=U2-1
+Removed Pin From Net: NetName=RFID_MISO_SPI2 Pin=U2-46
+Removed Pin From Net: NetName=RFID_MOSI_SPI2 Pin=U2-47
+Removed Pin From Net: NetName=RFID_SCK_SPI2 Pin=U2-48
+Added Pin To Net: NetName=RFID_MISO_SPI2 Pin=U2-1
+Added Pin To Net: NetName=RFID_SS_SPI2 Pin=U2-46
+Added Pin To Net: NetName=RFID_SCK_SPI2 Pin=U2-47
+Added Pin To Net: NetName=RFID_MOSI_SPI2 Pin=U2-48
